@@ -1,4 +1,4 @@
-# Road to Data Analyst: Kumpulan Proyek Pembelajaran
+# Road to Data Analyst: Kumpulan Project Pembelajaran
 
 Selamat datang di repository "Road to Data Analyst" saya! Repository ini berisi kumpulan project dan latihan yang saya kerjakan selama perjalanan belajar menjadi seorang Data Analyst. Project utama dalam repository ini adalah **Analisis Data Penjualan Game Global**.
 
@@ -6,7 +6,7 @@ Selamat datang di repository "Road to Data Analyst" saya! Repository ini berisi 
 
 ## 🚀 Proyek Utama: Analisis Data Penjualan Game Global
 
-Proyek ini menganalisis dataset penjualan video game dari VGChartz untuk mengidentifikasi tren industri, preferensi pasar regional, dan pemain utama di pasar.
+Proyek ini menganalisis dataset penjualan video game dari [dataset berikut](https://www.kaggle.com/datasets/thiyagucom/game-sale-dataset) untuk mengidentifikasi tren industri, preferensi pasar regional, dan pemain utama di pasar.
 
 * **Notebook Utama:** [`notebooks/Capstone Project.ipynb`](./notebooks/Capstone%20Project.ipynb)
 * **Dataset:** [`datasets/vgchartz-2024.csv`](./datasets/vgchartz-2024.csv)
@@ -21,12 +21,11 @@ Proyek ini menganalisis dataset penjualan video game dari VGChartz untuk mengide
 ### Contoh Visualisasi Hasil Analisis:
 
 *Publisher Teratas di Masing-Masing Regional*
-![Contoh Visualisasi Publisher](URL_GAMBAR_PUBLISHER_ANDA)
+![Contoh Visualisasi Publisher](https://github.com/shlnvt/road-to-da/issues/1#issue-3284050257)
 
 *Proporsi Penjualan Global Berdasarkan Regional*
-![Contoh Visualisasi Pie Chart](URL_GAMBAR_PIE_CHART_ANDA)
+![Contoh Visualisasi Pie Chart](https://github.com/shlnvt/road-to-da/issues/2#issue-3284051748)
 
-*(Catatan: Untuk mendapatkan URL gambar, Anda bisa mengunggah screenshot visualisasi Anda ke tab "Issues" di GitHub, lalu salin link gambarnya).*
 
 ### Teknologi yang Digunakan:
 * **Bahasa:** Python
@@ -38,14 +37,14 @@ Proyek ini menganalisis dataset penjualan video game dari VGChartz untuk mengide
 ## 📂 Latihan per Modul
 
 Repository ini juga berisi latihan-latihan yang saya kerjakan untuk setiap modul pembelajaran:
-* **Modul 1:** Fondasi Python
-* **Modul 2:** Analisis Data dengan Pandas
-* **Modul 3:** Visualisasi Data dengan Matplotlib & Seaborn
-* **Modul 4:** Pengantar SQL & Statistik
+* **Modul 1:** [Fondasi Python](https://github.com/shlnvt/road-to-da/blob/main/notebooks/Modul%201.ipynb)
+* **Modul 2:** [Analisis Data dengan Pandas](https://github.com/shlnvt/road-to-da/blob/main/notebooks/Modul%202.ipynb)
+* **Modul 3:** [Visualisasi Data dengan Matplotlib & Seaborn](https://github.com/shlnvt/road-to-da/blob/main/notebooks/Modul%203.ipynb)
+* **Modul 4:** [Pengantar SQL & Statistik](https://github.com/shlnvt/road-to-da/blob/main/notebooks/Modul%204.ipynb)
 
 ---
 
 ## 📬 Kontak
 
-* **LinkedIn:** [Nama Anda](URL_LINKEDIN_ANDA)
-* **Email:** email.anda@example.com
+* **LinkedIn:** [Shela Novitasari](https://linkedin.com/in/shlnvt)
+* **Email:** important.jobshel@gmail.com
